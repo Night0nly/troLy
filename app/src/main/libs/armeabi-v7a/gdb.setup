@@ -1,0 +1,2 @@
+set solib-search-path /home/night/Working/TroLy/TroLy/app/src/main/obj/local/armeabi-v7a
+directory /home/night/Android/Sdk/ndk-bundle/platforms/android-9/arch-arm /home/night/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++ /home/night/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include /home/night/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include /home/night/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward /home/night/Working/TroLy/TroLy/app/src/main/jni

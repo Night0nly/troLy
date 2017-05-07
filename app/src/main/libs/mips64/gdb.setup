@@ -1,0 +1,2 @@
+set solib-search-path /home/night/Working/TroLy/TroLy/app/src/main/obj/local/mips64
+directory /home/night/Android/Sdk/ndk-bundle/platforms/android-21/arch-mips64 /home/night/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++ /home/night/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include /home/night/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/mips64/include /home/night/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward /home/night/Working/TroLy/TroLy/app/src/main/jni

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TroLy</string>
+    <string name="preparing_dialog_message">Loading data</string>
+</resources>
