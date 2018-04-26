@@ -10,7 +10,7 @@ Control phone by voice (Vietnamese):
 - Increase/decrease brightness, volume
 - Open other application
 
-Can set to allways active. That mean can work even the screen is turn off(but not the app) or in the others app.
+Can set to allways active. That means can work even the screen is turn off(but not the app) or in the others app.
 This app uses GOOGLE SPEECH RECOGNITION service to recognize the input voice(Vietnamese), 
 uses SVM(Support Vector Machine) to improve the accuracy and also to classify and find out which comand is.
 
